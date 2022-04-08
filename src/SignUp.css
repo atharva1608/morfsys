@@ -1,0 +1,51 @@
+.title{
+
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.logo{
+    width:40px;
+    height:40px;
+    float:left;
+    margin-right: 10px;
+}
+
+.form{
+    margin: 0;
+    padding: 3px;
+    border-radius: 10px;
+    margin-left:150px;
+    margin-top: 15px;
+    
+  }
+  .form-control{
+    margin-top: 15px;
+  }
+
+  .submitbtn{
+      margin-top: 20px;
+      height: 30px;
+      width: 180px;
+      margin-top: 30px;
+      margin-left: 10px;
+      background-color:navy;
+      color: white;
+      letter-spacing: 1px;
+      border-radius: 5px;
+    
+  }
+
+  .loginbtn{
+    margin-top: 20px;
+    font-size: large;
+    height: 40px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color:navy;
+    color: white;
+    letter-spacing: 1px;
+    border-radius: 5px;
+  }
+
